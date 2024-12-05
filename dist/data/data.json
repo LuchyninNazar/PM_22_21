@@ -1,0 +1,51 @@
+{
+  "experience": [
+    {
+      "title": "Senior Web Designer",
+      "company": "Creative Agency",
+      "location": "Chicago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "years": "2020 - Present"
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Creative Market",
+      "location": "United Kingdom",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "years": "2015 - 2020"
+    },
+    {
+      "title": "Marketing Manager",
+      "company": "Marketing Agency",
+      "location": "United Kingdom",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "years": "2013 - 2015"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master Degree Graduate",
+      "institution": "Stanford University",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "years": "2011 - 2013"
+    },
+    {
+      "degree": "Bachelor Degree",
+      "institution": "Chicago University",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "years": "2007 - 2010"
+    }
+  ],
+  "languages": [
+    { "name": "English", "level": "95%" },
+    { "name": "German", "level": "60%" },
+    { "name": "Spanish", "level": "45%" }
+  ],
+  "skills": ["Adobe Photoshop", "Adobe Illustrator", "Microsoft Word", "Microsoft PowerPoint"],
+  "hobbies": [
+    { "name": "Traveling", "image": "img/traveling.jpg" },
+    { "name": "Gaming", "image": "img/gaming.jpg" },
+    { "name": "Music", "image": "img/music.jpg" },
+    { "name": "Gyming", "image": "img/gyming.jpg" }
+  ]
+}

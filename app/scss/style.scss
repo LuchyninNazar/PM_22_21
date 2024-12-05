@@ -1,0 +1,1244 @@
+.Job-Experience {
+  margin-left: 30px;
+  .Job-Name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    font-size: 28px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 54%;
+      height: 3px;
+      background-color: #000000;
+      position: absolute;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 4%;
+      height: 5px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+  }
+  .Senior-Web-Designer {
+    .Job-Title {
+      font-family: 'Roboto', sans-serif;
+      margin-left: 200px;
+      font-size: 20px;
+    }
+    .Job-Subtitle1 {
+      font-weight: bold;
+      font-size: 21px;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+      margin-top: -20px;
+      margin-left: 200px;
+      margin-bottom: 10px;
+      .city {
+        margin-left: 315px;
+        color: #26a69a;
+      }
+    }
+    .Job-Subtitle2 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+      margin-left: 200px;
+      text-align: left;
+      p {
+        text-align: justify;
+        text-align-last: justify;
+        max-width: 590px;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+  .Graphic-Designer {
+    .Job-Title {
+      font-family: 'Roboto', sans-serif;
+      font-size: 20px;
+      margin-left: 200px;
+    }
+    .Job-Subtitle1 {
+      font-weight: bold;
+      font-size: 22px;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+      margin-top: -20px;
+      margin-left: 200px;
+      margin-bottom: 10px;
+      .country1 {
+        margin-left: 215px;
+        color: #26a69a;
+      }
+    }
+    .Job-Subtitle2 {
+      font-family: 'Montserrat', sans-serif;
+      margin-left: 200px;
+      text-align: left;
+      font-size: 20px;
+      p {
+        text-align: justify;
+        text-align-last: justify;
+        max-width: 590px;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+  .Marketing-Manager {
+    .Job-Title {
+      font-family: 'Roboto', sans-serif;
+      margin-left: 200px;
+      font-size: 20px;
+    }
+    .Job-Subtitle1 {
+      font-weight: bold;
+      font-size: 22px;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+      margin-top: -20px;
+      margin-left: 200px;
+      margin-bottom: 10px;
+      .country2 {
+        margin-left: 187px;
+        color: #26a69a;
+      }
+    }
+    .Job-Subtitle2 {
+      font-family: 'Montserrat', sans-serif;
+      margin-left: 200px;
+      text-align: left;
+      font-size: 20px;
+      p {
+        text-align: justify;
+        text-align-last: justify;
+        max-width: 590px;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+  .Years-1 {
+    .First-Date {
+      font-family: 'Raleway', sans-serif;
+      background: #26a69a;
+      color: white;
+      position: absolute;
+      width: 10%;
+      text-align: center;
+      margin-top: -695px;
+      font-size: 19px;
+      font-weight: bold;
+      padding: 10px 0.5px;
+    }
+    .Second-Date {
+      font-family: 'Raleway', sans-serif;
+      background: #26a69a;
+      color: white;
+      position: absolute;
+      width: 10%;
+      text-align: center;
+      font-size: 19px;
+      margin-top: -450px;
+      font-weight: bold;
+      padding: 10px 0.5px;
+    }
+    .Third-Date {
+      font-family: 'Raleway', sans-serif;
+      background: #26a69a;
+      color: white;
+      width: 10%;
+      font-size: 19px;
+      text-align: center;
+      margin-top: -207px;
+      font-weight: bold;
+      padding: 10px 0.5px;
+      position: absolute;
+    }
+  }
+  .Kevin {
+    margin-left: -50px;
+    img {
+      width: 25%;
+      margin-left: 67%;
+      position: relative;
+      margin-top: -54%;
+      bottom: 480px;
+    }
+    &::before {
+      margin-left: 59%;
+      content: ' ';
+      display: block;
+      height: 580px;
+      width: 40%;
+      position: relative;
+      margin-top: -54%;
+      background-color: #333333;
+    }
+    .Kevin-Name {
+      font-family: 'Roboto', sans-serif;
+      font-size: 470%;
+      color: #ffffff;
+      margin-top: 210px;
+      position: relative;
+      margin-left: 62%;
+      bottom: 400px;
+      .Silva {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 100%;
+        color: white;
+        margin-top: -2px;
+        position: relative;
+        margin-left: 4%;
+      }
+    }
+    .Kevin-Title {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 180%;
+      color: #ffffff;
+      margin-top: -10%;
+      position: relative;
+      margin-left: 65.5%;
+      bottom: 300px;
+      &::before {
+        content: ' ';
+        display: block;
+        width: 480px;
+        height: 5px;
+        position: relative;
+        background-color: #ffffff;
+        margin-top: 50px;
+        margin-left: -30px;
+        bottom: -55px;
+      }
+      &::after {
+        content: ' ';
+        display: block;
+        width: 165px;
+        height: 8px;
+        background-color: #1f887f;
+        position: relative;
+        margin-left: 123px;
+        margin-top: 13px;
+      }
+    }
+  }
+  .Contact-Information {
+    margin-left: 845px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 25px;
+    margin-top: -30px;
+    .Phone-number {
+      img {
+        position: absolute;
+        margin-top: -71.5px;
+        width: 71.5px;
+      }
+      p {
+        position: absolute;
+        margin-top: -50px;
+        margin-left: 85px;
+      }
+      &::before {
+        content: ' ';
+        display: block;
+        width: 609px;
+        height: 71.5px;
+        background-color: #dfdfdf;
+        position: relative;
+        margin-top: -205px;
+      }
+    }
+    .Email {
+      img {
+        position: absolute;
+        margin-top: -11.8%;
+        width: 71.5px;
+      }
+      p {
+        position: absolute;
+        margin-top: -8.5%;
+        margin-left: 85px;
+      }
+      &::before {
+        content: ' ';
+        display: block;
+        width: 609px;
+        height: 71.5px;
+        background-color: #dfdfdf;
+        position: relative;
+        margin-top: 10px;
+      }
+    }
+    .Living {
+      img {
+        position: absolute;
+        margin-top: -71.5px;
+        width: 71.5px;
+      }
+      p {
+        position: absolute;
+        margin-top: -50px;
+        margin-left: 85px;
+      }
+      &::before {
+        content: ' ';
+        display: block;
+        width: 609px;
+        height: 71.5px;
+        background-color: #dfdfdf;
+        position: relative;
+        margin-top: 10px;
+      }
+    }
+  }
+}
+.Education {
+  margin-left: 30px;
+  .Education-Name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    font-size: 28px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 53%;
+      height: 3px;
+      background-color: #000000;
+      position: absolute;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 4%;
+      height: 5px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+  }
+  .Master-Degree-Graduate {
+    .Education-Title {
+      font-family: 'Roboto', sans-serif;
+      margin-left: 200px;
+      font-size: 20px;
+    }
+    .Education-Subtitle1 {
+      font-weight: bold;
+      font-size: 23px;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+      margin-top: -20px;
+      margin-left: 200px;
+      margin-bottom: 10px;
+    }
+    .Education-Subtitle2 {
+      margin-left: 200px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 19.5px;
+      text-align: left;
+      p {
+        text-align: justify;
+        text-align-last: justify;
+        max-width: 590px;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+  .Bachelor-Degree {
+    .Education-Title {
+      font-family: 'Roboto', sans-serif;
+      margin-left: 200px;
+      font-size: 20px;
+    }
+    .Education-Subtitle1 {
+      font-weight: bold;
+      font-size: 23px;
+      font-family: 'Montserrat', sans-serif;
+      font-style: italic;
+      margin-top: -20px;
+      margin-left: 200px;
+      margin-bottom: 10px;
+    }
+    .Education-Subtitle2 {
+      margin-left: 200px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 19.5px;
+      text-align: left;
+      p {
+        text-align: justify;
+        text-align-last: justify;
+        max-width: 590px;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+  .Years-2 {
+    .First-Date {
+      font-family: 'Raleway', sans-serif;
+      background: #26a69a;
+      color: white;
+      position: relative;
+      width: 10%;
+      text-align: center;
+      margin-top: -515px;
+      font-size: 19px;
+      font-weight: bold;
+      padding: 10px 0.5px;
+      bottom: -170px;
+    }
+    .Second-Date {
+      font-family: 'Raleway', sans-serif;
+      background: #26a69a;
+      color: white;
+      width: 10%;
+      text-align: center;
+      margin-top: 285px;
+      font-size: 19px;
+      font-weight: bold;
+      padding: 10px 0.5px;
+      position: relative;
+      top: 35px;
+    }
+  }
+  .About-Me {
+    margin-top: -330px;
+    position: absolute;
+    margin-left: 840px;
+    .About-Me-Name {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      position: absolute;
+      font-size: 28px;
+      &::before {
+        content: ' ';
+        display: block;
+        width: 295%;
+        height: 3px;
+        background-color: #000000;
+        position: absolute;
+        margin-top: -21px;
+        bottom: 12px;
+      }
+      &::after {
+        content: ' ';
+        display: block;
+        width: 30%;
+        height: 5px;
+        background-color: #26a69a;
+        position: relative;
+        margin-top: -20px;
+        bottom: 12px;
+      }
+    }
+    .First-Paragraph {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 23px;
+      text-align: left;
+      margin-top: 125px;
+      p {
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+    .Second-Paragraph {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 23px;
+      margin-top: 30px;
+      font-weight: bold;
+      font-style: italic;
+      text-align: left;
+      p {
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+    .Third-Paragraph {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 23px;
+      margin-top: 30px;
+      text-align: left;
+      p {
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+}
+.References {
+  margin-left: 30px;
+  .References-Name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    font-size: 28px;
+    margin-top: 170px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 53%;
+      height: 3px;
+      background-color: #000000;
+      position: absolute;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 4%;
+      height: 5px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+  }
+  .Darwin {
+    .D-Magana-Name {
+      font-family: 'Roboto', sans-serif;
+      margin-top: 25px;
+      font-size: 27px;
+    }
+    .Living {
+      font-family: 'Raleway', sans-serif;
+      color: #26a69a;
+      font-style: italic;
+      font-weight: bold;
+      margin-top: 5px;
+      font-size: 23px;
+    }
+    .Telephone {
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 5px;
+      font-size: 21px;
+    }
+    .Email {
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 5px;
+      font-size: 21px;
+    }
+  }
+  .Robert {
+    margin-top: -153px;
+    margin-left: 450px;
+    .Robert-Name {
+      font-family: 'Roboto', sans-serif;
+      font-size: 27px;
+      margin-top: 25px;
+    }
+    .Living {
+      font-family: 'Raleway', sans-serif;
+      color: #26a69a;
+      font-style: italic;
+      font-weight: bold;
+      margin-top: 5px;
+      font-size: 23px;
+    }
+    .Telephone {
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 5px;
+      font-size: 21px;
+    }
+    .Email {
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 5px;
+      font-size: 21px;
+    }
+  }
+  .Languages {
+    margin-top: -295px;
+    position: relative;
+    margin-left: 840px;
+    .Languages-Name {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      position: relative;
+      font-size: 28px;
+
+      &::before {
+        content: ' ';
+        display: block;
+        width: 97%;
+        height: 3px;
+        background-color: #000000;
+        position: absolute;
+        margin-top: -21px;
+        bottom: 10px;
+      }
+
+      &::after {
+        content: ' ';
+        display: block;
+        width: 13%;
+        height: 5px;
+        background-color: #26a69a;
+        position: relative;
+        margin-top: -21px;
+        bottom: 10px;
+      }
+    }
+    .English {
+      .English-Diagram {
+        margin-top: 140px;
+        position: relative;
+        width: 170px;
+        height: 170px;
+        top: -100px;
+
+        &::before {
+          content: ' ';
+          display: block;
+          width: 100%;
+          height: 100%;
+          border-radius: 100%;
+          position: relative;
+          background: var(--dynamic-gradient, conic-gradient(#26a69a 0% 0%, #e0e0e0 0% 0%));
+        }
+
+        &::after {
+          content: ' ';
+          display: block;
+          width: 90%;
+          height: 90%;
+          border-radius: 50%;
+          background-color: #ffffff;
+          margin-top: -360px;
+          margin-left: 8px;
+          position: absolute;
+        }
+
+        .start-dot,
+        .end-dot {
+          position: absolute;
+          width: 8.5px;
+          height: 8.5px;
+          background-color: #26a69a;
+          border-radius: 50%;
+          z-index: 11;
+        }
+
+        .start-dot {
+          top: 2.5%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+        }
+
+        .end-dot {
+          margin-left: 81px;
+          margin-top: -139px;
+          transform: translate(-50%, -50%);
+        }
+
+        p {
+          font-family: 'Montserrat', sans-serif;
+          font-size: 50px;
+          font-weight: bold;
+          position: relative;
+          top: -145px;
+          transform: translate(50%, -50%);
+          z-index: 10;
+          margin-left: -95px;
+        }
+
+        h1 {
+          font-family: 'Montserrat', sans-serif;
+          position: relative;
+          top: -235px;
+          z-index: 10;
+          font-size: 20px;
+          left: 40px;
+        }
+      }
+    }
+    .German {
+      .German-Diagram {
+        margin-top: -170px;
+        margin-left: 180px;
+        position: relative;
+        width: 170px;
+        height: 170px;
+        top: -100px;
+
+        &::before {
+          content: ' ';
+          display: block;
+          width: 100%;
+          height: 100%;
+          border-radius: 50%;
+          position: relative;
+          background: var(--dynamic-gradient, conic-gradient(#26a69a 0% 0%, #e0e0e0 0% 0%));
+        }
+
+        &::after {
+          content: ' ';
+          display: block;
+          width: 90%;
+          height: 90%;
+          border-radius: 50%;
+          background-color: #ffffff;
+          margin-top: -360px;
+          margin-left: 8px;
+          position: absolute;
+        }
+
+        .start-dot,
+        .end-dot {
+          position: absolute;
+          width: 8.1px;
+          height: 8.1px;
+          background-color: #26a69a;
+          border-radius: 50%;
+          z-index: 11;
+        }
+
+        .start-dot {
+          top: 5px;
+          left: 50%;
+          transform: translate(-50%, -59%);
+        }
+
+        .end-dot {
+          top: 47.9%;
+          left: 47.8%;
+          transform: translate(-50%, -50%);
+        }
+
+        p {
+          font-family: 'Montserrat', sans-serif;
+          font-size: 50px;
+          font-weight: bold;
+          position: relative;
+          top: -145px;
+          transform: translate(50%, -50%);
+          z-index: 10;
+          margin-left: -95px;
+        }
+
+        h1 {
+          font-family: 'Montserrat', sans-serif;
+          position: relative;
+          top: -235px;
+          z-index: 10;
+          font-size: 20px;
+          left: 40px;
+        }
+      }
+    }
+    .Spanish {
+      .Spanish-Diagram {
+        margin-left: 360px;
+        margin-top: -170px;
+        position: relative;
+        width: 170px;
+        height: 170px;
+        top: -100px;
+
+        &::before {
+          content: ' ';
+          display: block;
+          width: 100%;
+          height: 100%;
+          border-radius: 50%;
+          position: relative;
+          background: var(--dynamic-gradient, conic-gradient(#26a69a 0% 0%, #e0e0e0 0% 0%));
+        }
+
+        &::after {
+          content: ' ';
+          display: block;
+          width: 90%;
+          height: 90%;
+          border-radius: 50%;
+          background-color: #ffffff;
+          margin-top: -360px;
+          margin-left: 8px;
+          position: absolute;
+        }
+
+        .start-dot,
+        .end-dot {
+          position: absolute;
+          width: 8.1px;
+          height: 8.1px;
+          background-color: #26a69a;
+          border-radius: 50%;
+          z-index: 11;
+        }
+
+        .start-dot {
+          top: 6px;
+          left: 50%;
+          transform: translate(-50%, -59%);
+        }
+
+        .end-dot {
+          top: 47.9%;
+          left: 47.5%;
+          transform: translate(-50%, -40%);
+        }
+
+        p {
+          font-family: 'Montserrat', sans-serif;
+          font-size: 50px;
+          font-weight: bold;
+          position: relative;
+          top: -145px;
+          transform: translate(50%, -50%);
+          z-index: 10;
+          margin-left: -95px;
+        }
+
+        h1 {
+          font-family: 'Montserrat', sans-serif;
+          position: relative;
+          top: -235px;
+          z-index: 10;
+          font-size: 20px;
+          left: 40px;
+        }
+      }
+    }
+  }
+}
+.Skills {
+  margin-left: 30px;
+  margin-top: -110px;
+  .square {
+    background-color: #e6e6e6;
+    padding: 150px;
+    max-width: 485px;
+    margin-top: 50px;
+  }
+  .Skills-Name {
+    margin-top: -280px;
+    margin-left: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    font-size: 28px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 50%;
+      height: 3px;
+      background-color: #000000;
+      position: absolute;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 4%;
+      height: 5px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -21px;
+      bottom: 10px;
+    }
+  }
+  .Adobe-Photoshop {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 60px;
+    font-size: 19px;
+
+    &::before {
+      content: ' ';
+      display: block;
+      width: 20%;
+      height: 7px;
+      background-color: #ffffff;
+      position: relative;
+      margin-top: 20px;
+      bottom: -33px;
+    }
+
+    &::after {
+      content: ' ';
+      display: block;
+      width: 15%;
+      height: 8px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: 7px;
+      bottom: 24px;
+      transition: width 1.5s linear;
+    }
+
+    .Mini-square {
+      position: relative;
+      top: -4px; /* Вирівнювання по вертикалі */
+      left: 0; /* Початок руху зліва */
+      width: 20px;
+      height: 20px;
+      background-color: #26a69a;
+      transition: left 0.5s linear;
+    }
+  }
+  .Adobe-Illustrator {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-left: 410px;
+    font-size: 19px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 26.4%;
+      height: 7px;
+      background-color: #ffffff;
+      position: relative;
+      margin-top: -80px;
+      bottom: -33px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 15%;
+      height: 8px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -18.9px;
+      bottom: -1px;
+      transition: width 0.5s linear;
+    }
+    .Mini-square {
+      position: relative;
+      top: -4px; /* Вирівнювання по вертикалі */
+      left: 0; /* Початок руху зліва */
+      width: 20px;
+      height: 20px;
+      background-color: #26a69a;
+      transition: left 0.5s linear;
+    }
+  }
+  .Microsoft-Word {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 96px;
+    margin-left: 60px;
+    font-size: 19px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 20%;
+      height: 7px;
+      background-color: #ffffff;
+      position: relative;
+      margin-top: -78px;
+      bottom: -33px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 11.8%;
+      height: 7px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -17px;
+      bottom: 0;
+      max-width: 200px;
+    }
+    .Mini-square {
+      position: relative;
+      top: -4px; /* Вирівнювання по вертикалі */
+      left: 0; /* Початок руху зліва */
+      width: 20px;
+      height: 20px;
+      background-color: #26a69a;
+    }
+    @keyframes moveSquare {
+      from {
+        left: 0;
+      }
+      to {
+        left: var(--progress-width, 20%);
+      }
+    }
+  }
+  .Microsoft-Powerpoint {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 38px;
+    margin-left: 410px;
+    font-size: 19px;
+    &::before {
+      content: ' ';
+      display: block;
+      width: 26.4%;
+      height: 7px;
+      background-color: #ffffff;
+      position: relative;
+      margin-top: -78px;
+      bottom: -33px;
+    }
+    &::after {
+      content: ' ';
+      display: block;
+      width: 21%;
+      height: 7px;
+      background-color: #26a69a;
+      position: relative;
+      margin-top: -7px;
+      bottom: 10px;
+      transition: width 0.5s linear;
+    }
+    .Mini-square {
+      position: relative;
+      top: -4px; /* Вирівнювання по вертикалі */
+      left: 0; /* Початок руху зліва */
+      width: 20px;
+      height: 20px;
+      background-color: #26a69a;
+      transition: left 0.5s linear;
+    }
+  }
+  .Hobbies {
+    position: relative;
+    margin-top: -19%;
+    margin-left: 57%;
+    .Hobbies-Name {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      position: relative;
+      font-size: 28px;
+      &::before {
+        content: ' ';
+        display: block;
+        width: 95%;
+        height: 3px;
+        background-color: #000000;
+        position: absolute;
+        margin-top: -21px;
+        bottom: 10px;
+      }
+      &::after {
+        content: ' ';
+        display: block;
+        width: 9%;
+        height: 5px;
+        background-color: #26a69a;
+        position: relative;
+        margin-top: -21px;
+        bottom: 10px;
+      }
+    }
+    .Traveling {
+      .Traveling-Name {
+        position: relative;
+        margin-left: 28px;
+        top: 83px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        font-style: italic;
+        z-index: 10;
+      }
+      .Square1 {
+        position: relative;
+        background-color: #000000;
+        max-width: 28%;
+        height: 100px;
+        margin-top: -25px;
+      }
+      .Square2 {
+        position: relative;
+        background-color: #ffffff;
+        max-width: 27%;
+        height: 94px;
+        margin-top: -97px;
+        margin-left: 3px;
+      }
+      img {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        z-index: 10;
+        margin-left: 57px;
+        margin-top: -94px;
+      }
+    }
+    .Gaming {
+      z-index: 10;
+      position: relative;
+      top: -132px;
+      margin-left: 30%;
+      .Gaming-Name {
+        position: relative;
+        margin-left: 35px;
+        top: 83px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        font-style: italic;
+        z-index: 10;
+      }
+      .Square1 {
+        position: relative;
+        background-color: #000000;
+        width: 36.5%;
+        height: 100px;
+        margin-top: -25px;
+      }
+      .Square2 {
+        position: relative;
+        background-color: #ffffff;
+        width: 35.1%;
+        height: 94px;
+        margin-top: -97px;
+        margin-left: 3px;
+      }
+      img {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        z-index: 10;
+        margin-left: 50px;
+        margin-top: -94px;
+      }
+    }
+    .Music {
+      z-index: 10;
+      position: relative;
+      top: -265px;
+      margin-left: 57%;
+      .Music-Name {
+        position: relative;
+        margin-left: 49px;
+        top: 83px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        font-style: italic;
+        z-index: 10;
+      }
+      .Square1 {
+        position: relative;
+        background-color: #000000;
+        width: 63%;
+        height: 100px;
+        margin-top: -25px;
+      }
+      .Square2 {
+        position: relative;
+        background-color: #ffffff;
+        width: 61%;
+        height: 94px;
+        margin-top: -97px;
+        margin-left: 3px;
+      }
+      img {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        z-index: 10;
+        margin-left: 55px;
+        margin-top: -94px;
+      }
+    }
+    .Gyming {
+      margin-top: -285px;
+      .Gyming-Name {
+        position: relative;
+        margin-left: 44px;
+        top: 83px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        font-style: italic;
+        z-index: 10;
+      }
+      .Square1 {
+        position: relative;
+        background-color: #000000;
+        max-width: 28%;
+        height: 100px;
+        margin-top: -25px;
+      }
+      .Square2 {
+        position: relative;
+        background-color: #ffffff;
+        max-width: 27%;
+        height: 94px;
+        margin-top: -97px;
+        margin-left: 3px;
+      }
+      img {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        z-index: 10;
+        margin-left: 57px;
+        margin-top: -94px;
+      }
+    }
+  }
+}
+
+/* ------------------------------------------------ */
+
+/* Анімація */
+@keyframes fillProgressBar {
+  from {
+    width: 0;
+  }
+  to {
+    width: var(--progress-width, 20%);
+  }
+}
+
+@keyframes moveSquare {
+  from {
+    left: 0;
+  }
+  to {
+    left: var(--progress-width, 20%);
+  }
+}
+
+/* Анімовані стилі */
+.Adobe-Photoshop::after,
+.Adobe-Illustrator::after,
+.Microsoft-Word::after,
+.Microsoft-Powerpoint::after {
+  animation: fillProgressBar 3s forwards;
+}
+
+.Mini-square {
+  animation: moveSquare 3s forwards;
+}
+
+.Job-Experience,
+.Education,
+.References,
+.Languages,
+.Skills,
+.Hobbies,
+.About-Me {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
